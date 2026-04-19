@@ -1,0 +1,11 @@
+@tailwind base; my name
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+h1 {
+  font-family: 'Space Grotesk', sans-serif;
+}
